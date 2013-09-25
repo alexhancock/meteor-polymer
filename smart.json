@@ -1,9 +1,9 @@
 {
   "name": "polymer",
   "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
-  "homepage": "",
+  "homepage": "https://github.com/andrewreedy/meteor-polymer",
   "author": "Andrew Reedy",
-  "version": "0.0.1",
-  "git": "",
+  "version": "0.0.2",
+  "git": "https://github.com/andrewreedy/meteor-polymer.git",
   "packages": {}
 }
